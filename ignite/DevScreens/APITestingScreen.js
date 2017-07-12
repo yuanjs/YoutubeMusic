@@ -12,7 +12,7 @@ import styles from './Styles/APITestingScreenStyles'
 
 // API buttons here:
 const endpoints = [
-  { label: 'Youtube Search', endpoint: 'getYoutubeSearchResult'}
+  { label: 'Youtube Search', endpoint: 'getYoutubeSearchResult' }
   // { label: 'Github Root', endpoint: 'getRoot' },
   // { label: 'Github Rate Limit', endpoint: 'getRate' },
   // { label: 'Search User (gantman)', endpoint: 'getUser', args: ['gantman'] },

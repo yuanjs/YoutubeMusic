@@ -1,6 +1,6 @@
 // a library to wrap and simplify api calls
 import apisauce from 'apisauce'
-import AppConfig from '../Config/AppConfig'
+// import AppConfig from '../Config/AppConfig'
 
 // our "constructor"
 //const create = (baseURL = 'https://api.github.com/') => {
@@ -37,9 +37,9 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   // way at this level.
   //
   const getYoutubeSearchResult = () => api.get()
-  //const getRoot = () => api.get('')
-  //const getRate = () => api.get('rate_limit')
-  //const getUser = (username) => api.get('search/users', {q: username})
+  // const getRoot = () => api.get('')
+  // const getRate = () => api.get('rate_limit')
+  // const getUser = (username) => api.get('search/users', {q: username})
 
   // ------
   // STEP 3

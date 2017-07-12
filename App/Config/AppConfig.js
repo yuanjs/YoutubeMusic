@@ -5,5 +5,5 @@ import '../I18n/I18n'
 export default {
   // font scaling override - RN default is on
   allowTextFontScaling: true,
-  YoutubeAPIKey: "AIzaSyCj-h8-0wSfwudsfNUZW-DimLoELpmu3gw"
+  YoutubeAPIKey: 'AIzaSyCj-h8-0wSfwudsfNUZW-DimLoELpmu3gw'
 }
