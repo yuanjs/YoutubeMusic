@@ -47,7 +47,7 @@ class VideoSearchListView extends React.Component {
     const searchResults = await api.getYoutubeSearchResult()
     Reactotron.log(searchResults)
     this.setState({
-      dataSource: this.ds.cloneWithRows(searchResults.items)
+      dataSource: this.ds.cloneWithRows(searchResults.data.items)
     })
   }
   /* ***********************************************************
@@ -61,8 +61,8 @@ class VideoSearchListView extends React.Component {
   renderRow (rowData) {
     return (
       <View style={styles.row}>
-        <Text style={styles.boldLabel}>{rowData.title}</Text>
-        <Text style={styles.label}>{rowData.description}</Text>
+        <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
+        <Text style={styles.label}>{rowData.snippet.description}</Text>
       </View>
     )
   }
