@@ -1,10 +1,10 @@
 // a library to wrap and simplify api calls
 import apisauce from 'apisauce'
-// import AppConfig from '../Config/AppConfig'
+import AppConfig from '../Config/AppConfig'
 
 // our "constructor"
 //const create = (baseURL = 'https://api.github.com/') => {
-const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ReactNative&key=AIzaSyCj-h8-0wSfwudsfNUZW-DimLoELpmu3gw') => {
+const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=') => {
   // ------
   // STEP 1
   // ------
@@ -36,7 +36,7 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   // Since we can't hide from that, we embrace it by getting out of the
   // way at this level.
   //
-  const getYoutubeSearchResult = () => api.get()
+  const getYoutubeSearchResult = () => api.get('React Native' + '&key=' + AppConfig.YoutubeAPIKey)
   // const getRoot = () => api.get('')
   // const getRate = () => api.get('rate_limit')
   // const getUser = (username) => api.get('search/users', {q: username})
