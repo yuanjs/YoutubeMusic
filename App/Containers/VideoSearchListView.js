@@ -15,7 +15,7 @@ class VideoSearchListView extends React.Component {
     dataSource: Object
   }
 
-  constructor (props) {
+  constructor(props) {
     super(props)
     /* ***********************************************************
     * STEP 1
@@ -33,7 +33,7 @@ class VideoSearchListView extends React.Component {
     const rowHasChanged = (r1, r2) => r1 !== r2
 
     // DataSource configured
-    this.ds = new ListView.DataSource({rowHasChanged})
+    this.ds = new ListView.DataSource({ rowHasChanged })
 
     // Datasource is always in state
     this.state = {
@@ -58,12 +58,17 @@ class VideoSearchListView extends React.Component {
   * e.g.
     return <MyCustomCell title={rowData.title} description={rowData.description} />
   *************************************************************/
-  renderRow (rowData) {
+  renderRow(rowData) {
     return (
-      <View style={styles.row}>
-        <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
-        <Text style={styles.label}>{rowData.snippet.description}</Text>
-      </View>
+      <view style={styles.row}>
+        <View style={styles.imageRow}>
+          <Text>Image</Text>
+        </View>
+        <View style={styles.textRow}>
+          <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
+          <Text style={styles.label}>{rowData.snippet.description}</Text>
+        </View>
+      </view>
     )
   }
 
@@ -87,7 +92,7 @@ class VideoSearchListView extends React.Component {
 
   // Used for friendly AlertMessage
   // returns true if the dataSource is empty
-  noRowData () {
+  noRowData() {
     return this.state.dataSource.getRowCount() === 0
   }
 
@@ -98,7 +103,7 @@ class VideoSearchListView extends React.Component {
     )
   }
 
-  render () {
+  render() {
     return (
       <View style={styles.container}>
         <ListView
