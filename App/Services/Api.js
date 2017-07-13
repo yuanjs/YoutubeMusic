@@ -37,9 +37,9 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   // way at this level.
   //
   const getYoutubeSearchResult = () => api.get('React Native' + '&key=' + AppConfig.YoutubeAPIKey)
-  // const getRoot = () => api.get('')
-  // const getRate = () => api.get('rate_limit')
-  // const getUser = (username) => api.get('search/users', {q: username})
+  const getRoot = () => api.get('')
+  const getRate = () => api.get('rate_limit')
+  const getUser = (username) => api.get('search/users', {q: username})
 
   // ------
   // STEP 3
@@ -55,9 +55,9 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   //
   return {
     // a list of the API functions from step 2
-    // getRoot,
-    // getRate,
-    // getUser
+    getRoot,
+    getRate,
+    getUser,
     getYoutubeSearchResult
   }
 }
