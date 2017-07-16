@@ -25,6 +25,7 @@
     "fixcode": "standard --fix"
   },
   "dependencies": {
+    "@shoutem/ui": "shoutem/ui#242/head",
     "apisauce": "^0.14.0",
     "format-json": "^1.0.3",
     "lodash": "^4.17.2",
