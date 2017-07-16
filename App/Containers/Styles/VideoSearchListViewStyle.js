@@ -1,14 +1,38 @@
 import { StyleSheet } from 'react-native'
-import { ApplicationStyles, Metrics, Colors } from '../../Themes'
+import { ApplicationStyles, Metrics, Colors, Fonts } from '../../Themes'
 
 export default StyleSheet.create({
   ...ApplicationStyles.screen,
   container: {
     flex: 1,
-    backgroundColor: Colors.background
+    backgroundColor: Colors.background,
+  },
+  searchBar: {
+    flex: 1,
+    height: 20
   },
   row: {
     flex: 1,
+    flexDirection: 'row',
+    backgroundColor: Colors.fire,
+    marginVertical: Metrics.smallMargin,
+    justifyContent: 'center'
+  },
+  thumbnailsContent: {
+    backgroundColor: Colors.background,
+    justifyContent: 'center',
+    paddingLeft: 8,
+    paddingRight: 8,
+  },
+  imageStyle: {
+    width: 120, 
+    height: 90,
+    borderRadius: 6,
+    alignSelf: 'stretch'
+  },
+  detailContent: {
+    flex: 1,
+    flexDirection: 'column',
     backgroundColor: Colors.fire,
     marginVertical: Metrics.smallMargin,
     justifyContent: 'center'
@@ -22,7 +46,8 @@ export default StyleSheet.create({
   },
   label: {
     textAlign: 'center',
-    color: Colors.snow
+    color: Colors.snow,
+    fontSize: 8.5
   },
   listContent: {
     marginTop: Metrics.baseMargin

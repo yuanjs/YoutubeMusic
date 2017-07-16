@@ -36,7 +36,13 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   // Since we can't hide from that, we embrace it by getting out of the
   // way at this level.
   //
-  const getYoutubeSearchResult = () => api.get()
+ // const getYoutubeSearchResult = () => api.get()
+  const getYoutubeSearchResult = () => {
+    return {
+      ok: true,
+      data: require('../Fixtures/searchResults.json')
+    }
+  }
   // const getRoot = () => api.get('')
   // const getRate = () => api.get('rate_limit')
   // const getUser = (username) => api.get('search/users', {q: username})

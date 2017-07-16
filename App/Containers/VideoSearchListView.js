@@ -1,8 +1,9 @@
 import React from 'react'
-import { View, Text, ListView, Alert } from 'react-native'
+import { View, Text, ListView, Alert, Image } from 'react-native'
 import { connect } from 'react-redux'
 import Reactotron from 'reactotron-react-native'
 import API from '../Services/Api'
+import SearchBar from '../Components/SearchBar'
 
 // For empty lists
 // import AlertMessage from '../Components/AlertMessage'
@@ -71,8 +72,13 @@ class VideoSearchListView extends React.Component {
   renderRow(rowData) {
     return (
       <View style={styles.row}>
-        <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
-        <Text style={styles.label}>{rowData.snippet.description}</Text>
+        <View style={styles.thumbnailsContent}>
+          <Image style={styles.imageStyle} source={{uri: rowData.snippet.thumbnails.default.url}}/>
+        </View>
+        <View style={styles.detailContent}>
+          <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
+          <Text style={styles.label}>{rowData.snippet.description}</Text>
+        </View>
       </View>
     )
   }
@@ -106,6 +112,14 @@ class VideoSearchListView extends React.Component {
     return (
       <Text> - Footer - </Text>
     )
+  }
+
+  onSearch = () => {
+    console.log("Search")
+  }
+
+  onCancel = () => {
+    console.log("Cancel")
   }
 
   render() {
