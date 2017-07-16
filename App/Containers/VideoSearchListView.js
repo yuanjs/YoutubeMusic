@@ -1,6 +1,8 @@
 import React from 'react'
-import { View, Text, ListView } from 'react-native'
+import { View, Text, ListView, Alert } from 'react-native'
 import { connect } from 'react-redux'
+import Reactotron from 'reactotron-react-native'
+import API from '../Services/Api'
 
 // For empty lists
 // import AlertMessage from '../Components/AlertMessage'
@@ -13,22 +15,14 @@ class VideoSearchListView extends React.Component {
     dataSource: Object
   }
 
-  constructor (props) {
+  constructor(props) {
     super(props)
     /* ***********************************************************
     * STEP 1
     * This is an array of objects with the properties you desire
     * Usually this should come from Redux mapStateToProps
     *************************************************************/
-    const dataObjects = [
-      {title: 'First Title', description: 'First Description'},
-      {title: 'Second Title', description: 'Second Description'},
-      {title: 'Third Title', description: 'Third Description'},
-      {title: 'Fourth Title', description: 'Fourth Description'},
-      {title: 'Fifth Title', description: 'Fifth Description'},
-      {title: 'Sixth Title', description: 'Sixth Description'},
-      {title: 'Seventh Title', description: 'Seventh Description'}
-    ]
+    const dataObjects = []
 
     /* ***********************************************************
     * STEP 2
@@ -39,11 +33,30 @@ class VideoSearchListView extends React.Component {
     const rowHasChanged = (r1, r2) => r1 !== r2
 
     // DataSource configured
-    const ds = new ListView.DataSource({rowHasChanged})
+    this.ds = new ListView.DataSource({ rowHasChanged })
 
     // Datasource is always in state
     this.state = {
-      dataSource: ds.cloneWithRows(dataObjects)
+      dataSource: this.ds.cloneWithRows(dataObjects)
+    }
+
+    this.getData()
+  }
+
+  getData = async () => {
+    console.log("Begin to get data")
+    const api = API.create()
+    const searchResults = await api.getYoutubeSearchResult()
+    Reactotron.log(searchResults.data.items)
+    if (searchResults.ok) {
+      this.setState({
+        dataSource: this.ds.cloneWithRows(searchResults.data.items)
+      })
+    } else {
+      Alert.alert(
+        'Error',
+        'Can not get search result, Maybe network problem'
+      )
     }
   }
 
@@ -55,11 +68,11 @@ class VideoSearchListView extends React.Component {
   * e.g.
     return <MyCustomCell title={rowData.title} description={rowData.description} />
   *************************************************************/
-  renderRow (rowData) {
+  renderRow(rowData) {
     return (
       <View style={styles.row}>
-        <Text style={styles.boldLabel}>{rowData.title}</Text>
-        <Text style={styles.label}>{rowData.description}</Text>
+        <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
+        <Text style={styles.label}>{rowData.snippet.description}</Text>
       </View>
     )
   }
@@ -84,7 +97,7 @@ class VideoSearchListView extends React.Component {
 
   // Used for friendly AlertMessage
   // returns true if the dataSource is empty
-  noRowData () {
+  noRowData() {
     return this.state.dataSource.getRowCount() === 0
   }
 
@@ -95,7 +108,7 @@ class VideoSearchListView extends React.Component {
     )
   }
 
-  render () {
+  render() {
     return (
       <View style={styles.container}>
         <ListView

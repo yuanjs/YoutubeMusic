@@ -40,7 +40,15 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
   // const getRoot = () => api.get('')
   // const getRate = () => api.get('rate_limit')
   // const getUser = (username) => api.get('search/users', {q: username})
-
+  const getUser = (username) => {
+    // This fixture only supports gantman or else returns skellock
+    const gantmanData = require('../Fixtures/gantman.json')
+    const skellockData = require('../Fixtures/skellock.json')
+    return {
+      ok: true,
+      data: username.toLowerCase() === 'gantman' ? gantmanData : skellockData
+    }
+  }
   // ------
   // STEP 3
   // ------
@@ -57,7 +65,7 @@ const create = (baseURL = 'https://www.googleapis.com/youtube/v3/search?part=sni
     // a list of the API functions from step 2
     // getRoot,
     // getRate,
-    // getUser
+    getUser,
     getYoutubeSearchResult
   }
 }

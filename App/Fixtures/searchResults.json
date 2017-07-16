@@ -1,0 +1,1656 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ANIw21LxvLu-c1EOhwmV7xTLmsU\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 1000000,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7AHUzAbT2tpkbYKb7ZPvEff5_AU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mkualZPRZCs"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-07T22:59:58.000Z",
+    "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+    "title": "React Native Crash Course",
+    "description": "In this video we will look at what React Native is, we will setup the CLI, initialize an application and look at some key aspects of the React Native framework.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mkualZPRZCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mkualZPRZCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mkualZPRZCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Traversy Media",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/GJNY_RQdkaYJKxKQpZWr-lZdJtw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KVZ-P-ZI6W4"
+   },
+   "snippet": {
+    "publishedAt": "2015-01-29T00:54:42.000Z",
+    "channelId": "UCP_lo1MFyx5IXDeD9s_6nUw",
+    "title": "React.js Conf 2015 Keynote - Introducing React Native",
+    "description": "Tom Occhino reviews the past and present of React in 2015, and teases where it's going next.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KVZ-P-ZI6W4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KVZ-P-ZI6W4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KVZ-P-ZI6W4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Facebook Developers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/PzCIWkmdcmoQ9XDOpC20Y07SqiY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lv00UOXxy0g"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-28T23:52:54.000Z",
+    "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+    "title": "Building a React Native App in Under 15 Minutes",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lv00UOXxy0g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lv00UOXxy0g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lv00UOXxy0g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Infinite Red",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8tipcRJ6sQlkup81FoV73PfXFWs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "r5OPRhelEIU"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-17T17:06:59.000Z",
+    "channelId": "UC8CB0ZkvogP7tnCTDR-zV7g",
+    "title": "Introduction to React Native - Building a React Native app from scratch",
+    "description": "Jordan [ @AlwaysBCoding ] and Will [ @willpiers ] build a React Native iOS app from scratch. We cover all the files generated in a React Native project and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r5OPRhelEIU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r5OPRhelEIU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r5OPRhelEIU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Decypher Media",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/wGF-Y9q-T9w5TvPcAoYTVmMgces\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "I7haR6ktX5I"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-19T20:44:56.000Z",
+    "channelId": "UCOOIZ6uFFCB9C5l9NJqMq9A",
+    "title": "React Native or Swift?",
+    "description": "Should you learn React Native or Swift? My recommendation: start with the first, then go to the second, then... go back to the first again! Music from Jahzzar / Last ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I7haR6ktX5I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I7haR6ktX5I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I7haR6ktX5I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "#AskReinder",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/PzXKCb2Wep3tc38xuDVkK-iE8b4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9baaVjGdBqs"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-16T18:10:14.000Z",
+    "channelId": "UCP_lo1MFyx5IXDeD9s_6nUw",
+    "title": "⚡️ - Adam Perry - Create React Native App: 5 min. to \"Hello, World!\" - React Conf 2017",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9baaVjGdBqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9baaVjGdBqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9baaVjGdBqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Facebook Developers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/iGE9Fza5T3PXTDil4H1FiJqSnmk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OmiXlJ4ZzAo"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-03T16:51:46.000Z",
+    "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+    "title": "Performance Limitations of React Native and How to Overcome Them - Tal Kol",
+    "description": "Talk from React Amsterdam Conference 2017 https://react.amsterdam Tal Kol, Head of Mobile Engineering at Wix.com React Native holds great promise in ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "React Amsterdam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3q29ZpDDt-wtXBjfWUlnoG8gWr4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sUwIyBXohCQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-03T05:07:39.000Z",
+    "channelId": "UCcabW7890RKJzL968QWEykA",
+    "title": "Easily Build Apps with React Native",
+    "description": "Expo lets web developers build truly native apps that work across both iOS and Android by writing them once in just JavaScript. It's open source, free and uses ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sUwIyBXohCQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sUwIyBXohCQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sUwIyBXohCQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CS50",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/W-vbwJscAIVEcmik3LqlYPtrzyI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "R8qvfC6jV14"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-11T18:50:08.000Z",
+    "channelId": "UC8-6qIUsHCybEn1f9OxSE4Q",
+    "title": "Watch me build a react native app | Progress report",
+    "description": "Team Treehouse, free trial (affiliate link) http://treehouse.7eer.net/c/317530/228915/3944 An update on my progress made towards becoming a full stack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R8qvfC6jV14/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R8qvfC6jV14/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R8qvfC6jV14/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Michael Thomas",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/U7Baytsps5mSHMqxkrrdJJLJRms\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "abSNo2P9mMM"
+   },
+   "snippet": {
+    "publishedAt": "2016-10-02T05:25:08.000Z",
+    "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+    "title": "Tal Kol: Building a React Native App for 80 Million Users — ReactNext 2016",
+    "description": "Wix.com is betting big on React Native for our official app, catering to over 80 million Wix users. Production of this scale comes with its set of challenges, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/abSNo2P9mMM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/abSNo2P9mMM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/abSNo2P9mMM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ReactNext",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8Jc-CqWLI08hagA72aTTR8DEmBs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3ab0K6viEp0"
+   },
+   "snippet": {
+    "publishedAt": "2015-09-08T16:30:00.000Z",
+    "channelId": "UCZZPgUIorPao48a1tBYSDgg",
+    "title": "Building a Simple ToDo App With React Native and Firebase",
+    "description": "Learn to create a React Native todo app using the cloud database service Firebase for syncing data. Read the complete article on: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3ab0K6viEp0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3ab0K6viEp0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3ab0K6viEp0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Simon R",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/C9V86DmSqcGqAa1cm0B_bSsLpt4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gsmnDt3oFiI"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-03T13:14:44.000Z",
+    "channelId": "UCo49nn_qp0FP6BDYDCG0dTQ",
+    "title": "Creating a Tinder Card Using React Native and Exponent - Part 1",
+    "description": "This is a preview from the Clone Tinder course on https://cloneable.io - Learn to Code by Copying the Apps you ❤️️",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gsmnDt3oFiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gsmnDt3oFiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gsmnDt3oFiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Justin Nothling",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/NcnyEy1vSKrCC55VSc9bDZSoxn4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-xFF5KF-KpE"
+   },
+   "snippet": {
+    "publishedAt": "2016-10-22T07:48:16.000Z",
+    "channelId": "UCtYb1X445jCpJNPI1JCPRNA",
+    "title": "React Native Flex Basics",
+    "description": "Let's learn to style our React Native apps. Before we get too crazy, let's make sure we understand the cornerstone of layout within React Native- flex. Code can ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-xFF5KF-KpE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-xFF5KF-KpE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-xFF5KF-KpE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kuiper Collective",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bcCInCtzyVRnTUf5jjzcrvHdd50\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3Pm5_Cf7pQI"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-05T23:37:04.000Z",
+    "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+    "title": "React Native For Everyone #1 - Create React Native App & Setup",
+    "description": "Buy React Native For Everyone! https://goo.gl/M4R66v Learn once, write anywhere: Build mobile apps with React Native Support Free Tutorials ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3Pm5_Cf7pQI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3Pm5_Cf7pQI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3Pm5_Cf7pQI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LevelUpTuts",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/M5wVtbTPlqP6Zc_0zLXklWrpZCk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1xu1eeRCPEk"
+   },
+   "snippet": {
+    "publishedAt": "2016-12-28T07:18:01.000Z",
+    "channelId": "UCsTuArki932FjhOWMRbnnkw",
+    "title": "React Native Tutorial #2 - Making a login screen",
+    "description": "In this video we learn: - To make a button using Touchable and Text - To use KeyboardAvoidingView - To show the proper soft keyboard for each input - To ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1xu1eeRCPEk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1xu1eeRCPEk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1xu1eeRCPEk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mohamad Mohebifar",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DQSeODY3bXV9vTVmupiYBQMMmLA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jrYtPIzmhVc"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-11T09:34:42.000Z",
+    "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+    "title": "@notbrent's encore showing cool stuff with react native",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jrYtPIzmhVc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jrYtPIzmhVc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jrYtPIzmhVc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ReactEurope",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/sBwPKHXD5cA9gdybbAOydrKNWTY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tWitQoPgs8w"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-16T18:10:05.000Z",
+    "channelId": "UCP_lo1MFyx5IXDeD9s_6nUw",
+    "title": "Leland Richardson - React Native in the \"Brown Field\" - React Conf 2017",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tWitQoPgs8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tWitQoPgs8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tWitQoPgs8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Facebook Developers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/IqMHLTeWABXXEC-mFcjRXud-1us\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cSUxHv-kH7w"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-16T18:10:11.000Z",
+    "channelId": "UCP_lo1MFyx5IXDeD9s_6nUw",
+    "title": "Jing Chen - Incrementally Adopting React Native at Facebook - Keynote Part 2  - React Conf 2017",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cSUxHv-kH7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cSUxHv-kH7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cSUxHv-kH7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Facebook Developers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/rbdo-Ehb9sIjYeSyYVWpsYFfZ2w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "37B6-y0rvTY"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-31T17:52:21.000Z",
+    "channelId": "UCX1g7Ciyjv6pFeX7EhvX4sQ",
+    "title": "DAY 1 - XÂY DỰNG APP BÁN HÀNG TỪ A-Z VỚI REACT NATIVE",
+    "description": "React Native | Kiến thức cơ bản: Component (Props, State), TouchableOpacity, Navigator, Dimensions, Flex FOLLOW: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/37B6-y0rvTY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/37B6-y0rvTY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/37B6-y0rvTY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khoa Pham",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/r2dcv4iF_Wmkdx6VitB34HA53zQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FJr9mU8Gd70"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-13T17:39:00.000Z",
+    "channelId": "UCNCDygezl_4AJQ15MX4RqZA",
+    "title": "React Native Car/Taxi Booking App Part 1 - Development Environment",
+    "description": "SUBSCRIBE https://www.youtube.com/channel/UCNCDygezl_4AJQ15MX4RqZA?sub_confirmation=1 In this video we will set up the development environment ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FJr9mU8Gd70/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FJr9mU8Gd70/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FJr9mU8Gd70/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "emancode",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/0IJY7_uLhKpqF7ybmK6pow0esFE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y7rbJRjaYCY"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-01T12:06:45.000Z",
+    "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+    "title": "Tutoriel JavaScript : Découverte de ReactNative, App Météo",
+    "description": "Plus d'infos sur ce tutoriel : https://grafikart.fr/tutoriels/javascript/react-native-introduction-893 React Native vous permet de construire une application mobile ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y7rbJRjaYCY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y7rbJRjaYCY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y7rbJRjaYCY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Grafikart.fr",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/nqUsFGZVezWbUM2q9zChXgEmEhU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Pv_SxiBZQOY"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-05T23:37:02.000Z",
+    "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+    "title": "React Native For Everyone",
+    "description": "Buy React Native For Everyone! https://goo.gl/M4R66v Learn once, write anywhere: Build mobile apps with React Native Support Free Tutorials ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pv_SxiBZQOY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pv_SxiBZQOY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pv_SxiBZQOY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LevelUpTuts",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/at6Vo9Yi7S1Brh_3DSDWqU8yLME\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VTnFDc3IFag"
+   },
+   "snippet": {
+    "publishedAt": "2016-11-01T15:02:52.000Z",
+    "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+    "title": "Farid Safi: Build a React Native chat app in 30 minutes",
+    "description": "Farid is the creator of Gifted Chat and a React Native instructor at LeReacteur. https://www.meetup.com/React-Native-Amsterdam/events/233645265/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VTnFDc3IFag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VTnFDc3IFag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VTnFDc3IFag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "React Amsterdam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/OY5dvB9EsROvU9kv6_Fx_PbpfRc\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5"
+   },
+   "snippet": {
+    "publishedAt": "2016-07-14T18:57:32.000Z",
+    "channelId": "UCgAex8sj0ibg0lHL2nl6ONw",
+    "title": "Getting Started with React Native and Redux",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3msLwu25SQY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3msLwu25SQY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3msLwu25SQY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jon Lebensold",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7no7yPeLvfGQErT1F3mkIc9I-00\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLzrVYRai0riQsPYaBX-aNz8YCmtDsg17A"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-30T05:15:03.000Z",
+    "channelId": "UCX1g7Ciyjv6pFeX7EhvX4sQ",
+    "title": "HƯỚNG DẪN LẬP TRÌNH REACT NATIVE TẠI KHOA PHẠM",
+    "description": "HƯỚNG DẪN HỌC LẬP TRÌNH REACT NATIVE TẠI KHOA PHẠM: React Native được chính Facebook xây dựng. Với React Native, chúng ta có thể thiết kế app ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zUWWave5dWc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zUWWave5dWc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zUWWave5dWc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khoa Pham",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/XViJzva4GM4GUkkJeY5i1D-fNGg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "I8b0v0uFXLs"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-14T00:30:19.000Z",
+    "channelId": "UCCww-R0oM_CQWXerBcNyKKw",
+    "title": "React Native Intro Class",
+    "description": "Alexander Kotliarskyi from Facebook comes to Airbnb to give a class / presentation on React Native. This is a good primer for people who want to get up to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I8b0v0uFXLs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I8b0v0uFXLs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I8b0v0uFXLs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Airbnb",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Kcl93dERSXrY4fOVTQEDalmCBhU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UQYsVd-rI54"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-01T18:22:15.000Z",
+    "channelId": "UCu80l5_reHGRLxAmWm9zmYQ",
+    "title": "WhatsApp in JavaScript [React Native]",
+    "description": "Get the Code right here - https://github.com/VctrySam/whatsapp React Native Docs - https://facebook.github.io/react-native/ Hit me up with whatever ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UQYsVd-rI54/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UQYsVd-rI54/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UQYsVd-rI54/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Virile Mango",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/YCZBePEoTfHRyC_nedZ8Fhk7lS0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "owefV1NguxA"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-07T15:27:58.000Z",
+    "channelId": "UC0-4pzaazVsk7icfSgUXvIA",
+    "title": "Lập trình android với React Native :  Set up React Native for android  - Demo ứng dụng cơ bản",
+    "description": "React Native là framework xây dựng ứng dụng di động native sử dụng Javascript do Facebook phát hành và nhận định rằng đây chính là tương lai của lập trình.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/owefV1NguxA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/owefV1NguxA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/owefV1NguxA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Phan Minh Toan",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/H2la4fr7KzlrWj5LzxRsHssCJro\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sStf_ZbTXss"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-27T20:52:17.000Z",
+    "channelId": "UCu80l5_reHGRLxAmWm9zmYQ",
+    "title": "SnapChat in React Native",
+    "description": "Code's right here - https://github.com/VctrySam/SnapChat.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sStf_ZbTXss/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sStf_ZbTXss/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sStf_ZbTXss/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Virile Mango",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/SxGts1UzQ68AtE0cKl_87I0GpB4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "M2kqYPZZufQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-17T02:23:12.000Z",
+    "channelId": "UChqrDOwARrxdJF-ykAptc7w",
+    "title": "Building cross platform applications with React Native",
+    "description": "ReactJS and React Native are two very popular frameworks to build websites and mobile applications. In this talk, speakers from Microsoft and Facebook look at ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M2kqYPZZufQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M2kqYPZZufQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M2kqYPZZufQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Microsoft Visual Studio",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/IUcwIrhZUSWHa0oLuUG-hUQb4TU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QoZlQAPkLsE"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-13T16:46:48.000Z",
+    "channelId": "UChhPkjgG1-iLUOmURGdgQrw",
+    "title": "Créer un bouton en React Native",
+    "description": "Il y a des Components pour tout dans Reac Native. Celui-ci permet de créer un bouton qui lance une action au clic. 365 JOURS DE WEB DEV ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QoZlQAPkLsE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QoZlQAPkLsE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QoZlQAPkLsE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Anthony Welc",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/WnOrFWmMtfzUOxSLpPSixLPLlo0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qmNPpoVkY2Y"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-31T23:51:13.000Z",
+    "channelId": "UC7R7bcH9-KEBDiGNP1mZnmw",
+    "title": "React-Native & Node Tutorial - Build a Meetup app [Part: 1]",
+    "description": "This is the first part of the tutorial where with React-Native and NodeJS I build a Meetup app. In this part I make the basic settings and I show you Exponent who ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qmNPpoVkY2Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qmNPpoVkY2Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qmNPpoVkY2Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "EQuimper",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/P7rkEwqrVyDftsmqsa1QgLjyE3E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cuMezEwKFLU"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-18T21:14:01.000Z",
+    "channelId": "UCK9TqOjs5sq2vAu4vUdgyqg",
+    "title": "Tutorial: A Detailed Look at React Native for JavaScript Developers",
+    "description": "Intro to React Native with http://rangle.io Developer, Varun Vachhar. Webinar - May 17, 2016. This webinar provides detailed examples of React Native ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cuMezEwKFLU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cuMezEwKFLU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cuMezEwKFLU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Rangle.io",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/lzp_BMr1hKX_1wneQPCdcX304JE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "42ogpJVwtw0"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T14:45:21.000Z",
+    "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+    "title": "Navigating React Native Navigation - Kurtis Kemple",
+    "description": "Talk from React Amsterdam Conference 2017 https://react.amsterdam Kurtis Kemple, Technology Lead at Major League Soccer When you start out on React ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/42ogpJVwtw0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/42ogpJVwtw0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/42ogpJVwtw0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "React Amsterdam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/06Ly7rke9Ke28bZt70e1-kHOMXo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bIK2NwoK9xk"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-01T20:27:19.000Z",
+    "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+    "title": "Styling React/ReactNative Applications - Max Stoiber",
+    "description": "Talk from React Amsterdam Conference 2017 https://react.amsterdam Max Stoiber, Co-founder and CTO of Space Program (Spectrum) React popularized a new ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bIK2NwoK9xk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bIK2NwoK9xk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bIK2NwoK9xk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "React Amsterdam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/oq_hsllVGLpYVb1ivukPgitGlMA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9VqVv_sVgv0"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-08T15:23:29.000Z",
+    "channelId": "UCFXVPytLSv9ojAMgBIDh_qA",
+    "title": "Tal Kol - Introduction to React Native Performance",
+    "description": "React Native holds great promise in terms of excellent developer experience with Javascript and code reuse between platforms. The big question is - do these ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9VqVv_sVgv0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9VqVv_sVgv0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9VqVv_sVgv0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Wix Engineering Tech Talks",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/rp0rSxPFpQ2MfRocfAH-v315Rrc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mjsv8NJnt5k"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-16T18:10:06.000Z",
+    "channelId": "UCP_lo1MFyx5IXDeD9s_6nUw",
+    "title": "Tal Kol - Beyond Animations User Interactions @ 60 FPS in React Native - React Conf 2017",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mjsv8NJnt5k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mjsv8NJnt5k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mjsv8NJnt5k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Facebook Developers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/b1cdJ2ip3UYweg8NJ3jtjg4TY2A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QQRDcYsN4xs"
+   },
+   "snippet": {
+    "publishedAt": "2015-12-18T17:18:51.000Z",
+    "channelId": "UCK9TqOjs5sq2vAu4vUdgyqg",
+    "title": "Why React Native is Better than Native for Your Mobile Application",
+    "description": "Webinar - December 16, 2015 Why React Native is Better than Native for Your Mobile Application - An overview with Senior Developers Neil Fenton and Andrej ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QQRDcYsN4xs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QQRDcYsN4xs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QQRDcYsN4xs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Rangle.io",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/-sb0GWE-VopAknOJVvyWdZzBHVw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "r-ENJLGrd3s"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-18T16:24:46.000Z",
+    "channelId": "UCEv1DI7Iftd2sWE8gcGG9rg",
+    "title": "How to use the FlatList Component  - React Native Basics",
+    "description": "An introduction to using the FlatList component in React Native Interested in building your first React Native app or solidifying your React Native knowledge?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r-ENJLGrd3s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r-ENJLGrd3s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r-ENJLGrd3s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Handlebar Labs",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/zaNLwJ8_qZWE0ouFM4AYGbHvH1I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fQhH5SK2yTU"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-21T00:45:39.000Z",
+    "channelId": "UC9upMOgrXYMCfB-xwTlgT1w",
+    "title": "Intro to React Native & Expo - Build your first mobile app",
+    "description": "Come build you first mobile app using React Native and Expo! Join the webinar (free) to post your questions: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fQhH5SK2yTU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fQhH5SK2yTU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fQhH5SK2yTU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "rmotr.com",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/hvTSTW3rGEwDCLBlXs_Msydm6fg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ciyzuckUejs"
+   },
+   "snippet": {
+    "publishedAt": "2015-10-14T18:26:06.000Z",
+    "channelId": "UC3NDbeN0Jq_InNAhiJtvHcQ",
+    "title": "Алексей Волков \"Введение в React Native\"",
+    "description": "Конференция Angular & React Frameworks Day проводилась 4 октября 2015 года Презентация доклада: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ciyzuckUejs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ciyzuckUejs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ciyzuckUejs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "fwdays",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/RBo0Z5gx3tQVK2h16WSLZvbqVfU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Q20Kcbw3IR8"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-21T14:30:44.000Z",
+    "channelId": "UCRXncn82KyegxuG_mKHQvTw",
+    "title": "React Native - Firebase Authentication - Build an iPhone App from Scratch",
+    "description": "In this video series we will be looking into the React Native framework for developing native mobile apps for both Android and iOS using the same code base.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q20Kcbw3IR8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q20Kcbw3IR8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q20Kcbw3IR8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Michael Nissen",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/qNq52W_5KIn5TuOS9tYg5fLm6Nc\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLaKAkMkGe0fr-0MG8ntlXD9LZMhFEOlCP"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-10T22:16:14.000Z",
+    "channelId": "UC5YZhBStu406-nok10aD7EQ",
+    "title": "Tự học React-Native",
+    "description": "http://ngduy.com/chung-minh-cung-tu-hoc-react-native/ https://github.com/nguyenduy0502/React-Native Hiện nay javascript đang rất phát triển và đặc biệt là ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V2QtXdSzM5A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V2QtXdSzM5A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V2QtXdSzM5A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "NguyenDuy0502",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/aPaPUPJzK7v7BEG1m2HY-mZQaKA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jGU2I6sYDLE"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-11T09:24:52.000Z",
+    "channelId": "UCNpIE11a9nLW_s2GUWmksqw",
+    "title": "React Native Tutorial - Making a Login App with profile page #1 | Building the frontend",
+    "description": "In this React Native tutorial series we'll build a React Native App with a Login user system which consists of a login page and a member page. To connect the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jGU2I6sYDLE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jGU2I6sYDLE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jGU2I6sYDLE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fullstack Development",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/GG2IwxIMz6Lfk9O2BZbEM5lpcX8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vSZHdsBOX2E"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-24T17:02:00.000Z",
+    "channelId": "UCsVPQfo5RZErDL41LoWvk0A",
+    "title": "React Native ou comment faire une application iOS & Android ... (Florent Le Gall & Thierry Abaléa)",
+    "description": "React Native ou comment faire une application iOS & Android quand on est développeur web (Florent Le Gall &Thierry Abaléa) Développer sur mobile en 2017, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vSZHdsBOX2E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vSZHdsBOX2E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vSZHdsBOX2E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Devoxx FR",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/m54Zd_R96yo2_omWPYv8VosACSQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5SVLs_NN_uY"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-03T20:09:09.000Z",
+    "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+    "title": "Introducing Ignite for React Native!",
+    "description": "Ignite rocks because we're building on top of React Native. Jumpstart into React Native iOS and Android with an Ignite. Video tour provided!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5SVLs_NN_uY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5SVLs_NN_uY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5SVLs_NN_uY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Infinite Red",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/B93TWkOIHtkDFazRnj99Zx09m-Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6pwRyaaTS-A"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-30T05:13:07.000Z",
+    "channelId": "UCX1g7Ciyjv6pFeX7EhvX4sQ",
+    "title": "REACT NATIVE KHOA PHẠM | Bài 2: QUY TRÌNH THIẾT KẾ ỨNG DỤNG REACTNATIVE",
+    "description": "HƯỚNG DẪN HỌC LẬP TRÌNH REACT NATIVE TẠI KHOA PHẠM: React Native được chính Facebook xây dựng. Với React Native, chúng ta có thể thiết kế app ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6pwRyaaTS-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6pwRyaaTS-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6pwRyaaTS-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khoa Pham",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/4xV9nM9rAlS1owRSRTWzD8bPes0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_awnyW-9aJ8"
+   },
+   "snippet": {
+    "publishedAt": "2016-10-11T09:00:02.000Z",
+    "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+    "title": "Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016",
+    "description": "At Callstack.io, we have been working on the media player for one of our clients on both iOS and Android and decided to do it in React Native. React Native itself ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ReactNext",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/fv4hoDxrUDD-BiHil6lriTr-gR4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yBfS64f1woU"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-20T12:43:41.000Z",
+    "channelId": "UCO2w0cpl1wxygHjQH6eEfEg",
+    "title": "Пишем на React Native - Евгений Ртищев (Сбербанк-Технологии)",
+    "description": "Сегодня мы поговорим о том как не бояться использовать ReactNative при разработке крупных проектов. А именно...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yBfS64f1woU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yBfS64f1woU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yBfS64f1woU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AvitoTech",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/GBgW5-NW4HpKduJtLYxA_6quyGA\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC8ivCOllOAo7MfPT9k3Hs-Q"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-04T17:28:44.000Z",
+    "channelId": "UC8ivCOllOAo7MfPT9k3Hs-Q",
+    "title": "React Native Training",
+    "description": "Videos and Lessons for developers looking to learn React and React Native. Videos by Nader Dabit and Mike Grabowski. http://reactnative.training/",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-hYh7SDxoSPU/AAAAAAAAAAI/AAAAAAAAAAA/XKDT41RI4Wg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-hYh7SDxoSPU/AAAAAAAAAAI/AAAAAAAAAAA/XKDT41RI4Wg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-hYh7SDxoSPU/AAAAAAAAAAI/AAAAAAAAAAA/XKDT41RI4Wg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "React Native Training",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
