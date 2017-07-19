@@ -14,6 +14,7 @@ export default StyleSheet.create({
   row: {
     flex: 1,
     flexDirection: 'row',
+<<<<<<< HEAD
     backgroundColor: Colors.fire,
     marginVertical: Metrics.smallMargin,
     justifyContent: 'center'
@@ -33,6 +34,18 @@ export default StyleSheet.create({
   detailContent: {
     flex: 1,
     flexDirection: 'column',
+=======
+    justifyContent: 'flex-start'
+  },
+  imageRow: {
+    flex: 1,
+    marginVertical: Metrics.smallMargin,
+    justifyContent: 'center',
+    height: 80
+  },
+  textRow: {
+    flex: 4,
+>>>>>>> origin/master
     backgroundColor: Colors.fire,
     marginVertical: Metrics.smallMargin,
     justifyContent: 'center'
