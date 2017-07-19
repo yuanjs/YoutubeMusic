@@ -17,11 +17,7 @@ const PrimaryNav = StackNavigator({
 }, {
   // Default config for all screens
   headerMode: 'none',
-<<<<<<< HEAD
   initialRouteName: 'SearchListScreen',
-=======
-  initialRouteName: 'VideoSearchListView',
->>>>>>> origin/master
   navigationOptions: {
     headerStyle: styles.header
   }

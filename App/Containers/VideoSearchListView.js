@@ -1,14 +1,9 @@
 import React from 'react'
 import { View, Text, ListView, Alert, Image } from 'react-native'
 import { connect } from 'react-redux'
-<<<<<<< HEAD
 import Reactotron from 'reactotron-react-native'
 import API from '../Services/Api'
 import SearchBar from '../Components/SearchBar'
-=======
-import API from '../Services/Api'
-import Reactotron from 'reactotron-react-native'
->>>>>>> origin/master
 
 // For empty lists
 // import AlertMessage from '../Components/AlertMessage'
@@ -44,7 +39,6 @@ class VideoSearchListView extends React.Component {
     // Datasource is always in state
     this.state = {
       dataSource: this.ds.cloneWithRows(dataObjects)
-<<<<<<< HEAD
     }
 
     this.getData()
@@ -64,20 +58,9 @@ class VideoSearchListView extends React.Component {
         'Error',
         'Can not get search result, Maybe network problem'
       )
-=======
->>>>>>> origin/master
     }
-    this.getData()
   }
 
-  getData = async () => {
-    const api = API.create()
-    const searchResults = await api.getYoutubeSearchResult()
-    Reactotron.log(searchResults)
-    this.setState({
-      dataSource: this.ds.cloneWithRows(searchResults.data.items)
-    })
-  }
   /* ***********************************************************
   * STEP 3
   * `renderRow` function -How each cell/row should be rendered
@@ -88,7 +71,6 @@ class VideoSearchListView extends React.Component {
   *************************************************************/
   renderRow(rowData) {
     return (
-<<<<<<< HEAD
       <View style={styles.row}>
         <View style={styles.thumbnailsContent}>
           <Image style={styles.imageStyle} source={{uri: rowData.snippet.thumbnails.default.url}}/>
@@ -98,17 +80,6 @@ class VideoSearchListView extends React.Component {
           <Text style={styles.label}>{rowData.snippet.description}</Text>
         </View>
       </View>
-=======
-      <view style={styles.row}>
-        <View style={styles.imageRow}>
-          <Text>Image</Text>
-        </View>
-        <View style={styles.textRow}>
-          <Text style={styles.boldLabel}>{rowData.snippet.title}</Text>
-          <Text style={styles.label}>{rowData.snippet.description}</Text>
-        </View>
-      </view>
->>>>>>> origin/master
     )
   }
 
@@ -143,7 +114,6 @@ class VideoSearchListView extends React.Component {
     )
   }
 
-<<<<<<< HEAD
   onSearch = () => {
     console.log("Search")
   }
@@ -152,8 +122,6 @@ class VideoSearchListView extends React.Component {
     console.log("Cancel")
   }
 
-=======
->>>>>>> origin/master
   render() {
     return (
       <View style={styles.container}>
